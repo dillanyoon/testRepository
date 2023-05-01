@@ -1,5 +1,12 @@
 dddddddd
 ddddddddddd
 
+<<<<<<< HEAD
 add commentsss
 dsaf
+=======
+
+dsaf
+
+hgjhjhjhjh
+>>>>>>> 54b75d6 (hgh)
